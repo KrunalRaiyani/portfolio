@@ -3,7 +3,7 @@ import Input from './Input'
 
 const Contact = () => {
   return (
-    <section className="contect-section">
+    <section className="contect-section" name="contact" method="POST" data-netlify="true">
         <h2 className="title-text contect-text">Contact Us</h2>
         <form className="form">
           <Input id="f-name" label="First Name" type="text" placeholder="Enter First Name"/>
