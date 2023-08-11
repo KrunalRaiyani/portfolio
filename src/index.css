@@ -463,8 +463,10 @@ textarea:focus {
   background-color: #0388bc;
 }
 
-.footer .footer-links .footer-icons a .twitter {
-  background-color: #0aa1ff;
+.footer .footer-links .footer-icons a .github {
+  background-color: #000000;
+  height: 4rem;
+    width: 4rem;
 }
 
 .footer .footer-links .footer-icons a .yt {
